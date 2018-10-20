@@ -102,6 +102,7 @@ export default class App extends React.Component {
           ...toDos
         };
         return { ...newState };
+        
       });
     };
 
